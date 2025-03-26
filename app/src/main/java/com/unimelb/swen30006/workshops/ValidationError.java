@@ -7,7 +7,6 @@ import java.util.HashMap;
  * file, storing the errors as a key value mapping
  */
 class ValidationError {
-
     /* A map of error type to error message */
     public HashMap<String, String> errors;
     /* The file that it originally came from */
